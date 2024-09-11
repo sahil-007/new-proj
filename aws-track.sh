@@ -1,6 +1,6 @@
 #!/bin/bash
 ##############################
-#author :sahil
+#author :Sahil TK
 #version:v1
 ############################
 #
