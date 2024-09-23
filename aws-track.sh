@@ -6,7 +6,7 @@
 #
 #
 
-
+fgf
 date>>backup
 set -x
 echo "print the s3 ";
